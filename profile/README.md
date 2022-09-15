@@ -19,7 +19,7 @@
 
 <h2 align='center'>Resource</h2>
 
-## Table of Contents
+### Table of Contents
 - <a href="https://github.com/HUST-IDSM-AI/slides">Slides<a>
 - <a href="">open source</a>
 - <a href="">papers</a>
