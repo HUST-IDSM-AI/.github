@@ -12,6 +12,7 @@
 <h3>
 <font style="color:red">What's new: </font>
 </h3>
+
 - [08/2022] Our paper "Adaptive Size-Aware Cache Insertion Policy for Content Delivery Networks" is accepted by ICCD 2022. Congratulations to Peng Wang.
 - [08/2022] Our short paper "A Lightweight and Adaptive Cache Partitioning Scheme for Content Delivery Networks" is accepted by ICCD 2022. Congratulations to Peng Wang.
 - [06/2022] Yu Liu gives a talk about <a href="https://dl.acm.org/doi/pdf/10.1145/3514221.3517882">Hunter</a> on DBtalk.
