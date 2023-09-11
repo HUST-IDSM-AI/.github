@@ -12,12 +12,12 @@
 <h3>
 <font style="color:red">What's new: </font>
 </h3>
-
+- [07/2023] Our paper "CHAIN: Exploring Global-Local Spatio-Temporal Information for Improved Self-Supervised Video Hashing" is accepted by ACM MM 2023. Congratulations to Rukai Wei.
+- [06/2023] Our paper "Smart Cache Insertion and Promotion Policy for Content Delivery Networks" is accepted by ICPP 2023. Congratulations to Peng Wang.
+- [03/2023] Our paper "Label-affinity Self-adaptive Central Similarity Hashing for Image Retrieval" is accepted by TMM 2023. Congratulations to Yanzhao Xie.
+- [02/2023] Our paper "Deep Debiased Contrastive Hashing" is accepted by Pattern Recognition 2023. Congratulations to Rukai Wei.
 - [08/2022] Our paper "Adaptive Size-Aware Cache Insertion Policy for Content Delivery Networks" is accepted by ICCD 2022. Congratulations to Peng Wang.
 - [08/2022] Our short paper "A Lightweight and Adaptive Cache Partitioning Scheme for Content Delivery Networks" is accepted by ICCD 2022. Congratulations to Peng Wang.
-- [06/2022] Yu Liu gives a talk about <a href="https://dl.acm.org/doi/pdf/10.1145/3514221.3517882">Hunter</a> on DBtalk.
-- [05/2022] Our paper "Self-Supervised Label-Visual Correlation Hashing for Multi-Label Image Retrieval" is accepted by APWeb-WAIM 2022. Congratulations to Yu Liu.
-
 
 <h2 align='center'>Resource</h2>
 
