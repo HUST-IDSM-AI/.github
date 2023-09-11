@@ -12,6 +12,7 @@
 <h3>
 <font style="color:red">What's new: </font>
 </h3>
+
 - [07/2023] Our paper "CHAIN: Exploring Global-Local Spatio-Temporal Information for Improved Self-Supervised Video Hashing" is accepted by ACM MM 2023. Congratulations to Rukai Wei.
 - [06/2023] Our paper "Smart Cache Insertion and Promotion Policy for Content Delivery Networks" is accepted by ICPP 2023. Congratulations to Peng Wang.
 - [03/2023] Our paper "Label-affinity Self-adaptive Central Similarity Hashing for Image Retrieval" is accepted by TMM 2023. Congratulations to Yanzhao Xie.
