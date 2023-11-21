@@ -13,12 +13,14 @@
 <font style="color:red">What's new: </font>
 </h3>
 
+- [11/2023] Our paper "Supervised Hierarchical Online Hashing for Cross-modal Retrieval" is accepted by TOMM  2023. Congratulations to Kai Han. Code is released [here](https://github.com/HUST-IDSM-AI/SHOH).
+- [09/2023] Our paper "SPAE: Lifelong disk failure prediction via end-to-end GAN-based anomaly detection with ensemble update" is accepted by FGCS 2023. Congratulations to Yunchuan Guan.
+- [08/2023] Our paper "A disk failure prediction model for multiple issues" is accepted by FITEE 2023. Congratulations to Yunchuan Guan.
+- [08/2023] Our paper "Hierarchical Meta-Learning with Hyper-Tasks for Few-Shot Learning" is accepted by CIKM 2023. Congratulations to Yunchuan Guan.
 - [07/2023] Our paper "CHAIN: Exploring Global-Local Spatio-Temporal Information for Improved Self-Supervised Video Hashing" is accepted by ACM MM 2023. Congratulations to Rukai Wei.
 - [06/2023] Our paper "Smart Cache Insertion and Promotion Policy for Content Delivery Networks" is accepted by ICPP 2023. Congratulations to Peng Wang.
 - [03/2023] Our paper "Label-affinity Self-adaptive Central Similarity Hashing for Image Retrieval" is accepted by TMM 2023. Congratulations to Yanzhao Xie.
 - [02/2023] Our paper "Deep Debiased Contrastive Hashing" is accepted by Pattern Recognition 2023. Congratulations to Rukai Wei.
-- [08/2022] Our paper "Adaptive Size-Aware Cache Insertion Policy for Content Delivery Networks" is accepted by ICCD 2022. Congratulations to Peng Wang.
-- [08/2022] Our short paper "A Lightweight and Adaptive Cache Partitioning Scheme for Content Delivery Networks" is accepted by ICCD 2022. Congratulations to Peng Wang.
 
 <h2 align='center'>Resource</h2>
 
