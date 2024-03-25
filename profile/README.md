@@ -13,6 +13,7 @@
 <font style="color:red">What's new: </font>
 </h3>
 
+- [02/2024] Our paper "Exploring Hierarchical Information in Hyperbolic Space for Self-Supervised Image Hashing" is accepted by TIP 2024. congratulations to Rukai Wei. 
 - [11/2023] Our paper "Supervised Hierarchical Online Hashing for Cross-modal Retrieval" is accepted by TOMM  2023. Congratulations to Kai Han. Code is released [here](https://github.com/HUST-IDSM-AI/SHOH).
 - [09/2023] Our paper "SPAE: Lifelong disk failure prediction via end-to-end GAN-based anomaly detection with ensemble update" is accepted by FGCS 2023. Congratulations to Yunchuan Guan.
 - [08/2023] Our paper "A disk failure prediction model for multiple issues" is accepted by FITEE 2023. Congratulations to Yunchuan Guan.
